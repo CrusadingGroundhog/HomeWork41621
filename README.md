@@ -1,4 +1,4 @@
-#COINBASE
+#**COINBASE**
 
 ## Overview and Origin
 
@@ -7,9 +7,10 @@
 * **When was the company incorporated?:** 
   Coinbase was incorporated in June 2012. 
 
-* Who are the founders of the company? Brian Armstrong & Fred Ehrsam
+* **Who are the founders of the company?** 
+Brian Armstrong & Fred Ehrsam
 
-* How did the idea for the company (or project) come about? 
+* **How did the idea for the company (or project) come about?** 
 
 * How is the company funded? How much funding have they received?
 
