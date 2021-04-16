@@ -2,19 +2,19 @@
 
 ## Overview and Origin
 
-* Name of company
+* Name of company:Coinbase
 
-* When was the company incorporated?
+* When was the company incorporated?: Coinbase was incorporated in June 2012. 
 
-* Who are the founders of the company?
+* Who are the founders of the company? Brian Armstrong & Fred Ehrsam
 
-* How did the idea for the company (or project) come about?
+* How did the idea for the company (or project) come about? 
 
 * How is the company funded? How much funding have they received?
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
+* What specific financial problem is the company or project trying to solve? Coinbase
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
@@ -49,3 +49,9 @@ What solution does this company offer that their competitors do not or cannot of
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+
+
+##Sources 
+
+* https://www.benzinga.com/markets/cryptocurrency/21/04/20621450/who-are-coinbases-competitors
