@@ -4,7 +4,8 @@
 
 * **Name of company**:Coinbase
 
-* When was the company incorporated?: Coinbase was incorporated in June 2012. 
+* **When was the company incorporated?:** 
+  Coinbase was incorporated in June 2012. 
 
 * Who are the founders of the company? Brian Armstrong & Fred Ehrsam
 
