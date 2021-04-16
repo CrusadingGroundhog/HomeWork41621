@@ -39,7 +39,7 @@ What solution does this company offer that their competitors do not or cannot of
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-* How is your company performing relative to competitors in the same domain?
+* How is your company performing relative to competitors in the same domain? So far Coinbase is the dominate 
 
 
 ## Recommendations
@@ -57,3 +57,4 @@ What solution does this company offer that their competitors do not or cannot of
 ##Sources 
 
 * https://www.benzinga.com/markets/cryptocurrency/21/04/20621450/who-are-coinbases-competitors
+* https://www.marketwatch.com/investing/stock/coin
