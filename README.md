@@ -2,7 +2,7 @@
 
 ## Overview and Origin
 
-* Name of company:Coinbase
+* **Name of company**:Coinbase
 
 * When was the company incorporated?: Coinbase was incorporated in June 2012. 
 
